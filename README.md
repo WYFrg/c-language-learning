@@ -7,3 +7,6 @@ My C language learning journey
 遇到bug scanf输入缓冲区 用while（getchar(） ！='\n')（用于混合输入文本+数字）; 清理回车。
 解决0x0000409崩溃报错，理解字符串数组char name[50](提问的是文本非数字）（50指50个字节）
 整型int a 的内存大小差异
+
+学习了简单的运算符，scanf_s只认占位符（%s)，不认提示语。
+if else中if后第一句不加;最好加上{}
